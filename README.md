@@ -23,11 +23,20 @@
 * https://developer.android.com/courses/android-basics-compose/unit-6?index=..%2F..%2Fandroid-training&hl=ko#0
 * https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2?hl=ko
 * https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2?index=..%2F..%2Fandroid-training&hl=ko#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio
-
+* https://developer.android.com/studio/write
+* https://developer.android.com/courses/advanced-training/overview?hl=ko#unit_1
+* https://developer.android.com/courses/advanced-training/toc?hl=ko
+* 
+* 
 ### google play console
 * https://support.google.com/googleplay/android-developer/answer/13996823?utm_source=email&utm_medium=newsletter&utm_campaign=Play-march24
-* 
+* https://developer.android.com/google/play/requirements/target-sdk
 
+### ads sdk
+* https://support.vungle.com/hc/ko/categories/200269670-Monetization
+* https://developers.applovin.com/en/getting-started
+* 
+* 
 ## ads
 * [start.io](https://start.io)
 * [ad colony, digitalturbine](https://digitalturbine.com)
